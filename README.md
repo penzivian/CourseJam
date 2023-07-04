@@ -27,11 +27,7 @@
 - Happy codding and debuging :)
     ```
     Thanks
-    Aditya Saha
-
-## Authors
-
-- [Aditya Saha](https://www.linkedin.com/in/adityasaha39/)
+    Supratim Deb
 
 
 ## 🚀 About Me
