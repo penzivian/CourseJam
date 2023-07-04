@@ -37,8 +37,7 @@ I am final year UG student from National Institute Of Technology, Agartala
 
 ## Demo
 
-https://coursejam-aditya.netlify.app/
-
+https://coursejam.netlify.app/
 
 ## 🛠 Skills Used
 HTML, CSS, Javascript, React Js, Node Js, Mongodb and Moongoose
